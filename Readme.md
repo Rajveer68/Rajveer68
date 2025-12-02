@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="YOUR_CV_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-00FFFF?style=for-the-badge&logo=readme&logoColor=black" />
+    <img src="[https://img.shields.io/badge/View%20My%20CV-00FFFF?style=for-the-badge&logo=readme&logoColor=black](https://drive.google.com/file/d/1AZrJ3jrzlQxNAXdSn4XOT8EGWzO12WES/view?usp=sharing)" />
   </a>
 </p>
 
