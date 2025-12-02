@@ -55,7 +55,7 @@
 # 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajveer68&theme=tokyonight" />
+ ![](https://nirzak-streak-stats.vercel.app/?user=Rajveer68l&theme=cobalt&hide_border=false)
 </p>
 
 ---
