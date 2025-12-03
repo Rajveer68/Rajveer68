@@ -7,7 +7,7 @@
 
 <!-- Anime GIF -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/NGpEfhC1bE9Ww/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpwNWphdzVrcmlxN3RjaWtsamp0eW44MzVxeGZvcjJ1cXQ5d25kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OACHuKGkZ5F3FUbNsY/giphy.gif)" width="400px" />
+  <img src="https://media.giphy.com/media/NGpEfhC1bE9Ww/giphy.gif" width="400px" />
 </p>
 
 ---
