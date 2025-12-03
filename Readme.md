@@ -1,13 +1,13 @@
 <!-- Typing Banner -->
 <p align="center">
   <a href="https://github.com/Rajveer68">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;AI+%7C+ML+%7C+IoT+Developer;Anime+Lover+%7C+Builder+%7C+Creator;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;AI+%7C+ML+%7C+IoT+Developer;Welcome+to+my+GitHub+Profile!" />
   </a>
 </p>
 
 <!-- Anime GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/NGpEfhC1bE9Ww/giphy.gif" width="400px" />
+  <img src="[https://media.giphy.com/media/NGpEfhC1bE9Ww/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpwNWphdzVrcmlxN3RjaWtsamp0eW44MzVxeGZvcjJ1cXQ5d25kMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OACHuKGkZ5F3FUbNsY/giphy.gif)" width="400px" />
 </p>
 
 ---
