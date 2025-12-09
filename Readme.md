@@ -7,7 +7,7 @@
 
 <!-- Anime GIF -->
 <p align="center">
-  <img src="https://giphy.com/gifs/ToeiAnimation-sword-roronoa-zoro-swordman-OACHuKGkZ5F3FUbNsY" width="400px" />
+  <img src="[https://giphy.com/gifs/ToeiAnimation-sword-roronoa-zoro-swordman-OACHuKGkZ5F3FUbNsY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFkY2F0bWs5cW53ZzNnNHFyZ3BpeHFpYnlqeHFhY29vODg2cmxiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OACHuKGkZ5F3FUbNsY/giphy.gif)" width="400px" />
 </p>
 
 ---
