@@ -1,9 +1,21 @@
+
+<p align = "center" size = "40" color = "#00FF00">
+  ❝ 🌍✨ The Best Way to Predict the future is to Create It ✨🌍 ❞
+</p>
+
 <!-- Typing Banner -->
 <p align="center">
   <a href="https://github.com/Rajveer68">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;Full+Time+Learner;AI/ML+%7C+Full+Stack+Developer+%7C+BlockChain;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;%7C+Aspiring+AI+ML+Architect+%7C;%7C+Full+Stack+Developer+%7C;Welcome+to+my+GitHub+Profile!" />
   </a>
 </p>
+
+## 🤖 About Me 👨🏻‍💻
+# 🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science
+# 🥈 Runner-Up in the UniHack Sustanability Hackathon
+# 🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU
+# 🌠 2nd Year CS AI student @ BCU
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) 
