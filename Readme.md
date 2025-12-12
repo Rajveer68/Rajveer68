@@ -22,20 +22,20 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy]()
+![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
 
 
 # 📊 GitHub Stats:
-<style align="centre">
-![](https://github-readme-stats.vercel.app/api?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rajveer68&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</style>
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false"> <br/>
+<img src = "https://nirzak-streak-stats.vercel.app/?user=Rajveer68&theme=merko&hide_border=false"> <br/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
 
 ## 🏆 GitHub Trophies
-<p align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
