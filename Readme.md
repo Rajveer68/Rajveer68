@@ -14,33 +14,23 @@
 
 
 # 📊 GitHub Stats:
+
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rajveer68&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ## 🏆 GitHub Trophies
+<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajveer68&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rajveer68&icon=0&color=3)](https://visitcount.itsvg.in)
-
-
-# 🏆 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/IoT%20Developer-FF6F61?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anime%20Fan-FF1493?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-6A5ACD?style=for-the-badge&logo=github" />
-</p>
-
----
 
 
 # 📈 Profile Views
