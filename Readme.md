@@ -11,9 +11,9 @@
 </p>
 
 ## 🤖 About Me 👨🏻‍💻
-🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science
-🥈 Runner-Up in the UniHack Sustanability Hackathon
-🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU
+🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science<br>
+🥈 Runner-Up in the UniHack Sustanability Hackathon<br>
+🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU<br>
 🌠 2nd Year CS AI student @ BCU
 
 
