@@ -1,10 +1,9 @@
 <!-- Typing Banner -->
 <p align="center">
   <a href="https://github.com/Rajveer68">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;AI/ML+%7C+Full+ Stack+Developer+%7C+BlockChain;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;Full+Time+Learner;AI/ML+%7C+Full+Stack+Developer+%7C+BlockChain;Welcome+to+my+GitHub+Profile!" />
   </a>
 </p>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) 
@@ -25,12 +24,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-%013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&size=40x40)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![SpaCy]
 
 
 # 📊 GitHub Stats:
@@ -39,6 +37,10 @@
 <img src = "https://nirzak-streak-stats.vercel.app/?user=Rajveer68&theme=merko&hide_border=false"> <br/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
+
+## 📑 My CV : 
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RAJVEER_Technical_CV_0.pdf)
+
 
 ## 🏆 GitHub Trophies
 
