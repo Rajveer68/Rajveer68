@@ -5,24 +5,31 @@
   </a>
 </p>
 
-<!-- Anime GIF -->
-<p align="center">
-  <img src="[https://giphy.com/gifs/ToeiAnimation-sword-roronoa-zoro-swordman-OACHuKGkZ5F3FUbNsY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFkY2F0bWs5cW53ZzNnNHFyZ3BpeHFpYnlqeHFhY29vODg2cmxiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OACHuKGkZ5F3FUbNsY/giphy.gif)" width="400px" />
-</p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveersinghsaini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajveer.saini@mail.bcu.ac.uk) 
+
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy]()
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rajveer68&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rajveer68&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rajveer68&icon=0&color=3)](https://visitcount.itsvg.in)
 
-# 🧑‍💻 About Me
-
-- 🎓 Computer Science (AI Specialisation)  
-- 🤖 Projects:
-  - IoT Twin Sensor Monitoring System  
-  - ECG Machine + ML  
-  - Crypto Sentiment Analysis  
-- 🎌 Anime lover & building an **anime clothing brand – Minime**  
-- 🌍 Based in the UK  
-
----
 
 # 🏆 Badges
 
@@ -35,56 +42,6 @@
 
 ---
 
-# ⚡ Tech Stack (Animated)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,arduino,raspberrypi,tensorflow,pytorch&theme=light" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajveer68&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-# 🔥 Streak Stats
-
-<p align="center">
- ![](https://nirzak-streak-stats.vercel.app/?user=Rajveer68l&theme=cobalt&hide_border=false)
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-# 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
----
-
-# 📂 My CV
-
-<p align="center">
-  <a href="YOUR_CV_LINK_HERE" target="_blank">
-    <img src="[https://img.shields.io/badge/View%20My%20CV-00FFFF?style=for-the-badge&logo=readme&logoColor=black](https://drive.google.com/file/d/1AZrJ3jrzlQxNAXdSn4XOT8EGWzO12WES/view?usp=sharing)" />
-  </a>
-</p>
-
----
 
 # 📈 Profile Views
 
@@ -92,16 +49,6 @@
   <img src="https://komarev.com/ghpvc/?username=Rajveer68&label=Profile+Views&color=00FFFF&style=for-the-badge">
 </p>
 
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:your-email"><img src="https://img.shields.io/badge/Email-29F7FF?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
-</p>
-
----
 
 # ⭐ Thanks for Visiting!
 
