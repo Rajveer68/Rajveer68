@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
+![Numpy](https://img.shields.io/badge/Numpy-%013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 
 
 # 📊 GitHub Stats:
@@ -34,14 +34,15 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
+## 🔝 Top Contributed Repo
+<p align = "center">
+<img src = "https://github-contributor-stats.vercel.app/api?username=Rajveer68&limit=5&theme=merko&combine_all_yearly_contributions=true">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajveer68&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 
 # 📈 Profile Views
