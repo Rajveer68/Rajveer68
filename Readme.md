@@ -1,6 +1,6 @@
 
-<p align = "center" size = "40" color = "#00FF00">
-  ❝ 🌍✨ The Best Way to Predict the future is to Create It ✨🌍 ❞
+<p align = "center" color="29F7FF">
+  # ❝ 🌍✨ The Best Way to Predict the future is to Create It ✨🌍 ❞
 </p>
 
 <!-- Typing Banner -->
@@ -11,10 +11,10 @@
 </p>
 
 ## 🤖 About Me 👨🏻‍💻
-# 🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science
-# 🥈 Runner-Up in the UniHack Sustanability Hackathon
-# 🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU
-# 🌠 2nd Year CS AI student @ BCU
+🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science
+🥈 Runner-Up in the UniHack Sustanability Hackathon
+🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU
+🌠 2nd Year CS AI student @ BCU
 
 
 ## 🌐 Socials:
