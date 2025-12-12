@@ -1,13 +1,15 @@
 <!-- Typing Banner -->
 <p align="center">
   <a href="https://github.com/Rajveer68">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;AI+%7C+ML+%7C+IoT+Developer;Welcome+to+my+GitHub+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=700&color=29F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajveer+Singh+Saini!;AI/ML+%7C+Full+ Stack+Developer+%7C+BlockChain;Welcome+to+my+GitHub+Profile!" />
   </a>
 </p>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveersinghsaini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajveer.saini@mail.bcu.ac.uk) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveersinghsaini) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajveer.saini@mail.bcu.ac.uk) 
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -23,6 +25,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-%013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Scikit-learn]
+![Matplotlib]
+![Seaborn]
+![TensorFlow]
+![PyTorch]
+![SpaCy]
 
 
 # 📊 GitHub Stats:
@@ -34,9 +42,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&no-frame=true&no-bg=true&margin-w=4">
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rajveer68&theme=merko&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔝 Top Contributed Repo
 <p align = "center">
