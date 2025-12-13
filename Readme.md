@@ -16,6 +16,8 @@
 🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU<br>
 🌠 2nd Year CS AI student @ BCU
 
+## 📑 My CV : 
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RAJVEER_Technical_CV_0.pdf)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) 
@@ -50,8 +52,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
-## 📑 My CV : 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RAJVEER_Technical_CV_0.pdf)
 
 
 ## 🏆 GitHub Trophies
