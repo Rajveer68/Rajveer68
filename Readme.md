@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🤖 About Me 👨🏻‍💻
+# 🤖 About Me 👨🏻‍💻
 🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science<br>
 🥈 Runner-Up in the UniHack Sustanability Hackathon<br>
 🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU<br>
@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveersinghsaini) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajveer.saini@mail.bcu.ac.uk) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -45,7 +45,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Rajveer68&theme=merko&hide_border=false&include_all_commits=false&count_private=false"> <br/>
 <img src = "https://nirzak-streak-stats.vercel.app/?user=Rajveer68&theme=merko&hide_border=false"> <br/>
@@ -65,13 +65,13 @@
 
 
 
-# 📈 Profile Views
+## 📈 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajveer68&label=Profile+Views&color=00FFFF&style=for-the-badge">
 </p>
 
-
-# ⭐ Thanks for Visiting!
-
-<p align="center">If you like my work, consider leaving a ⭐ on my repositories!</p>
+<p align="center">
+<h2>⭐ Thanks for Visiting! </h2>
+If you like my work, consider leaving a ⭐ on my repositories!
+</p>
