@@ -58,11 +58,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔝 Top Contributed Repo
-<p align = "center">
-<img src = "https://github-contributor-stats.vercel.app/api?username=Rajveer68&limit=5&theme=merko&combine_all_yearly_contributions=true">
-</p>
-
 
 
 ## 📈 Profile Views
