@@ -68,5 +68,8 @@
 
 <p align="center">
 <h2>⭐ Thanks for Visiting! </h2>
+<p align="center">
 If you like my work, consider leaving a ⭐ on my repositories!
+</p>
+
 </p>
