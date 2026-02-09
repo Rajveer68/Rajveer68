@@ -17,7 +17,7 @@
 🌠 2nd Year CS AI student @ BCU
 
 ## 📑 My CV : 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RAJVEER_Technical_CV_0.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RAJVEER_Technical_CV_1.3.pdf)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajveer56_) 
