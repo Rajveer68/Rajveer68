@@ -11,6 +11,7 @@
 </p>
 
 # 🤖 About Me 👨🏻‍💻
+🎖️Bounty Equity Winners in UKFinnovator Hackhton
 🥇 Winner Of BCU Java Hackathon conducted by Department Of Computer Science<br>
 🥈 Runner-Up in the UniHack Sustanability Hackathon<br>
 🧑🏻‍🏫 Working As a Demonstrating Teacher for 1st Year Web Development @ BCU<br>
