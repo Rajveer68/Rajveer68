@@ -1,6 +1,6 @@
 
 <p align = "center" color="29F7FF">
-  <H1>❝ 🌍✨ The Best Way to Predict the future is to Create It ✨🌍 ❞</H1>
+  <H2>❝ 🌍✨ The Best Way to Predict the future is to Create It ✨🌍 ❞</H2>
 </p>
 
 <!-- Typing Banner -->
